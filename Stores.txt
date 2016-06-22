@@ -1,0 +1,11 @@
+StoreID	Town	State	Density	Lot_Size
+1	Alexandria	VA	Urban	200
+2	Annapolis	MD	Suburban	400
+3	Fairfax	VA	Suburban	500
+4	Hagerstown	MD	Rural	300
+5	Richmond	VA	Urban	400
+6	Rockville	MD	Suburban	500
+7	Rosslyn	VA	Urban	200
+8	Taneytown	MD	Rural	100
+9	Washington	DC	Urban	300
+10	Westminster	MD	Rural	300

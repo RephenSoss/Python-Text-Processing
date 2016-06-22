@@ -1,0 +1,5 @@
+RateID	Daily	Weekly	Monthly
+1	25	150	600
+2	30	200	800
+3	35	225	850
+4	45	265	1000

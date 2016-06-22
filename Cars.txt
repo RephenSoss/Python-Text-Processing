@@ -1,0 +1,13 @@
+CarID	Make	Model	Model_Year	Rate_Level
+1	Chevrolet	Impala	2014	3
+2	Chevrolet	Malibu	2014	3
+3	Chevrolet	Spark	2014	4
+4	Ford	Fusion	2014	3
+5	Ford	Escape	2014	5
+6	Hundai	Accent	2014	1
+7	Hundai	Sonata	2014	3
+8	Kia	Forte	2014	2
+9	Nissan	Versa	2014	1
+10	Toyota	Corolla	2014	2
+11	Toyota	RAV4	2014	5
+12	Volkswagen	Jetta	2014	4
