@@ -1,9 +1,6 @@
 # Stephen Ross
 # Python Programming for Database Apps
-# Project Part 2
-#
-# I worked with and got help from Keegan Shirel over 
-# over the course of the semester
+
 
 
 # Import sqlite3 and connect to database
@@ -96,10 +93,6 @@ def sales():
 #countrows()
 
 
-
-# This is a cool funtion that I found and edited that prints out a table with 
-# All of the table specifications
-#(https://pagehalffull.wordpress.com/2012/11/14/python-script-to-count-tables-columns-and-rows-in-sqlite-database/)
 
 def countrows2():
     cur = conn.cursor()
