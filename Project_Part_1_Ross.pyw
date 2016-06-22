@@ -1,9 +1,6 @@
 # Stephen Ross
 # Python Programming for Database Apps
-# Project Part 1
 
-# I worked with and got help from Keegan Shirel over 
-# over the course of the semester. 
 
 # Import Libraries
 
