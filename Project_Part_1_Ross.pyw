@@ -1,5 +1,4 @@
 # Stephen Ross
-# Python Programming for Database Apps
 
 
 # Import Libraries
@@ -62,7 +61,7 @@ class Form( QDialog):
         self.connect(self.pbuttonQuit, SIGNAL("clicked()"),self.buttonQuitPressed)
         self.setWindowTitle("File Processor")
 
-# Define buttons and associated funtions
+# Define buttons and funtions
 
     def button1Pressed(self):
         file = open('LiTestFile.txt')
