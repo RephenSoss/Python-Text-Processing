@@ -1,6 +1,4 @@
 # Stephen Ross
-# Python Programming for Database Apps
-
 
 
 # Import sqlite3 and connect to database
