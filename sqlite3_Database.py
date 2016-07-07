@@ -1,5 +1,5 @@
 # Stephen Ross
-
+# Create and enter sales data
 
 # Import sqlite3 and connect to database
 import sqlite3
